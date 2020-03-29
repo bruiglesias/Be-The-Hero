@@ -8,7 +8,7 @@ Use the package manager to install foobar.
 
 ## Preview
 
-Aqui será colocado imagens
+![Preview01](images/preview01.jpeg)
 
 ## Contribuição
 ```bash
