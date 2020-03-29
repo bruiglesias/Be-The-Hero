@@ -8,8 +8,7 @@ Use the package manager to install foobar.
 
 ## Preview
 
-<img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview01.jpeg" width="200"/>
-<img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview02.jpeg" width="200"/>
+<img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview01.jpeg" width="300"/> <img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview02.jpeg" width="300"/>
 
 
 ## Contribuição
