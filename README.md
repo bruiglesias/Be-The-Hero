@@ -8,7 +8,9 @@ Use the package manager to install foobar.
 
 ## Preview
 
-![Preview01](images/preview01.jpeg)
+<img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview01.jpeg" width="200"/>
+<img src="https://github.com/bruiglesias/Be-The-Hero/blob/master/images/preview02.jpeg" width="200"/>
+
 
 ## Contribuição
 ```bash
